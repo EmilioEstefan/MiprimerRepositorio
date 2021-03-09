@@ -34,3 +34,5 @@ var nComparacion1 = 10;
 var nComparacion2 = 5;
 var resultadoComparacion = (nComparacion1 < nComparacion2)
 console.log (resultadoComparacion);
+
+//Prueba de pull request
